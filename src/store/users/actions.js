@@ -1,5 +1,7 @@
 import { GET_USER, GET_USER_SUCCESS, API_ERROR } from './actionTypes';
 
+//getUsers action type
+
 export const getUsers = (user, history) => {
     return {
         type: GET_USER,

@@ -4,6 +4,7 @@ import { withRouter } from 'react-router-dom';
 
 import { logoutUser } from '../../store/actions';
 
+//Logout compoent
 const Logout = (props) => {
 
     useEffect(() => {

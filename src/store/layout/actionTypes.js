@@ -1,3 +1,5 @@
+//layout action type
+
 /* LAYOUT */
 export const CHANGE_LAYOUT = "CHANGE_LAYOUT";
 export const CHANGE_LAYOUT_WIDTH = "CHANGE_LAYOUT_WIDTH";

@@ -1,6 +1,7 @@
 import React from "react";
 import { Route, Redirect, withRouter } from "react-router-dom";
 
+//Authmiddleware component
 const Authmiddleware = ({
 	component: Component,
 	layout: Layout

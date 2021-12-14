@@ -11,6 +11,7 @@ import { GetUserData, Roles, GetTwoName, regions } from '../../../helpers/utilit
 // users
 import user1 from '../../../assets/images/users/avatar-1.jpg';
 
+//ProfileMenu compoent
 const ProfileMenu = (props) => {
 
     // Declare a new state variable, which we'll call "menu"

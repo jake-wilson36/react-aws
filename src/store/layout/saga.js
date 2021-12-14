@@ -1,6 +1,8 @@
 // @flow
 import { all, call, fork, takeEvery, put } from "redux-saga/effects";
 
+//layout action type
+
 import {
 	CHANGE_LAYOUT,
 	CHANGE_LAYOUT_WIDTH,

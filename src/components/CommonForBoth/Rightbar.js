@@ -23,6 +23,7 @@ import layout1 from "../../assets/images/layouts/layout-1.jpg";
 import layout2 from "../../assets/images/layouts/layout-2.jpg";
 import layout3 from "../../assets/images/layouts/layout-3.jpg";
 
+//Breadcrumb component
 const RightSidebar = (props) => {
 
   return (

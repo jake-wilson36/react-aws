@@ -10,6 +10,8 @@ import {
 	TOGGLE_LEFTMENU
 } from "./actionTypes";
 
+//layout redux
+
 export const changeLayout = layout => ({
 	type: CHANGE_LAYOUT,
 	payload: layout

@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container, Row, Col } from "reactstrap";
 
+//Footer compoent
 const Footer = (props) => {
   return (
    <React.Fragment>

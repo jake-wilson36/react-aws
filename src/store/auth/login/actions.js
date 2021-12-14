@@ -1,5 +1,7 @@
 import { LOGIN_USER, LOGIN_SUCCESS, LOGOUT_USER, LOGOUT_USER_SUCCESS, API_ERROR, LOADER } from './actionTypes';
 
+//loginUser redux
+
 export const loginUser = (user, history) => {
     return {
         type: LOGIN_USER,

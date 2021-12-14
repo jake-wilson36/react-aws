@@ -14,6 +14,7 @@ import logo from "../../assets/images/apazuc/fips-logo.png";
 //Import Functions 
 import { GetUserData, Roles, GetTwoName, regions } from '../../helpers/utility';
 
+//Header compoent
 const Header = (props) => {
 
   const [menu, setMenu] = useState(false);

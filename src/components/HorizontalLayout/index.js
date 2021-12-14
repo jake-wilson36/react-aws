@@ -14,6 +14,8 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Rightbar from "../CommonForBoth/Rightbar";
 
+//Layout compoent
+
 class Layout extends Component {
   constructor(props) {
     super(props);

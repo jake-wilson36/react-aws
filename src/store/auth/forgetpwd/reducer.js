@@ -4,6 +4,8 @@ import {
   FORGET_PASSWORD_ERROR
 } from "./actionTypes";
 
+//forgetpassword redux
+
 const initialState = {
   forgetSuccessMsg: null,
   forgetError: null

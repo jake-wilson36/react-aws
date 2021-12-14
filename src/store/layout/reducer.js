@@ -1,3 +1,5 @@
+//layout action type
+
 // @flow
 import {
 	CHANGE_LAYOUT,

@@ -7,6 +7,7 @@ import toaster from '../../helpers/toaster';
 import DatePicker from "react-datepicker";
 import s3aws from './s3aws'
 
+//FormUploads function
 const FormUploads = (props) => {
 
     const [selectedFiles, setselectedFiles] = useState([]);

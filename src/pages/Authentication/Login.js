@@ -19,6 +19,7 @@ import { Auth } from 'aws-amplify';
 import profile from "../../assets/images/profile-img.png";
 import logo from "../../assets/images/logo.svg";
 
+//Login compoent
 const Login = (props) => {
 
     useEffect(() => {

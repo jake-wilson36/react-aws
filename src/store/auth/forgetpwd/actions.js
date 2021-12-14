@@ -4,6 +4,8 @@ import {
   FORGET_PASSWORD_ERROR
 } from "./actionTypes";
 
+//forgetpassword redux
+
 export const userForgetPassword = (user, history) => {
   return {
     type: FORGET_PASSWORD,

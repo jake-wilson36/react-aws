@@ -20,6 +20,8 @@ import { apiError } from '../../store/actions';
 // import profile from "../../assets/images/profile-img.png";
 // import logo from "../../assets/images/logo.svg";
 // Amplify.configure(awsconfig);
+
+//Signup compoent
 const Signup = (props) => {
 
     useEffect(() => {

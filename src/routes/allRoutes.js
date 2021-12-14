@@ -11,6 +11,8 @@ import ForgetPwd from "../pages/Authentication/ForgetPassword";
 import Dashboard from "../pages/Dashboard/index";
 import Users from "../pages/Users";
 
+//Authmiddleware component
+
 let userRoutes = [
 	{ path: "/dashboard", component: Dashboard },
 	{ path: "/users", component: Users },

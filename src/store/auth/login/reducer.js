@@ -1,4 +1,5 @@
 import { LOGIN_USER, LOGIN_SUCCESS, LOGOUT_USER, LOGOUT_USER_SUCCESS, API_ERROR, LOADER } from './actionTypes';
+//loginUser redux
 
 const initialState = {
     error: "",

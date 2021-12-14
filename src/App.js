@@ -20,6 +20,7 @@ import awsconfig from './aws-exports';
 
 Amplify.configure(awsconfig);
 
+//App component
 const App = (props) => {
 	const [isLoading, setIsLoading] = useState(true);
 

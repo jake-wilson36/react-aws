@@ -5,6 +5,8 @@ import classname from "classnames";
 
 import { connect } from "react-redux";
 
+//Navbar compoent
+
 const Navbar = (props) => {
 
     const [dashboard, setdashboard] = useState(false);

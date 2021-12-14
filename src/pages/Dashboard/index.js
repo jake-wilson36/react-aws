@@ -9,6 +9,7 @@ import Breadcrumbs from '../../components/Common/Breadcrumb';
 
 import axios from '../../helpers/axiosutil';
 
+//Dashboard Page
 const Dashboard = (props) => {
 
     const [isLoading, setIsLoading] = useState(true);
